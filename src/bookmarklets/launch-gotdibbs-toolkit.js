@@ -30,7 +30,7 @@ try {
         }
     }
 
-    load('//www.gotdibbs.com/crm/help/launcher.fragment.html', function onRetrieved(html) {
+    load('//github.com/ecurrier/Dynamics-CRM-Bookmarklets/blob/master/src/fragments/launcher.fragment.html', function onRetrieved(html) {
         var root = document.createElement('div');
         root.innerHTML = html;
         root.setAttribute('data-hook', 'gotdibbs-toolbox-root');

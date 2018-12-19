@@ -26,5 +26,6 @@ Drag a bookmarklet from below up to your favorites, then click it when viewing a
 [bookmarklet file="show-dirty-fields" name="Show Dirty Fields" description="Displays a list of all fields on the form which are currently flagged as having changed."]
 [bookmarklet file="show-record-properties" name="Show Record Properties" description="Displays a summary of permissions and ownership for the current record."]
 [bookmarklet file="toggle-schema-names" name="Toggle Schema Names" description="Switches between displaying the labels for all fields, and the schema names for those fields."]
+[bookmarklet file="populate-required-fields" name="Populate Required Fields" description="Populates all required fields with randomly generated data appropriate to the data type."]
 
 </section>
